@@ -57,7 +57,7 @@ function App() {
       imageUrl: "https://images.unsplash.com/photo-1610824352934-c10d87b700cc?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       brandName: "sun",
       name: "Sun sipper waterbottle",
-      price: 900
+      price: 400
     },
     {
       id: 8,
