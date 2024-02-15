@@ -28,7 +28,7 @@ Open http://localhost:3000 in your browser to see the app.
 You can see a live demo of the app here: https://srinathreactshoppingcart.netlify.app/
 
 # Features
-Browse products and price range
-Add and remove products from the shopping cart
-View the quantity of the items in your cart
-Responsive and minimalist design
+1. Browse products and price range
+2. Add and remove products from the shopping cart
+3. View the quantity of the items in your cart
+4. Responsive and minimalist design
