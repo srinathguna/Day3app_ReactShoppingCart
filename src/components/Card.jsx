@@ -21,7 +21,7 @@ const Card = ({item,setCount}) => {
                             <h5 className="fs-6">{item.name}</h5>
                             <h5 className="fs-5 fw-bolder">${item.price}</h5>
                             {
-                                status?  <button className="btn btn-outline-dark" onClick={addcart}>Add to cart</button>:<button className="btn btn-outline-dark" onClick={removecart}>Remove from cart</button>
+                                status?  <button className="btn btn-success text-white  fw-normal" onClick={addcart}>Add to cart</button>:<button className="btn btn-danger text-white fw-normal" onClick={removecart}>Remove from cart</button>
                             }
                                     
                                     
