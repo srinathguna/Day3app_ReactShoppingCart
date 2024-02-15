@@ -25,7 +25,7 @@ npm start
 Open http://localhost:3000 in your browser to see the app.
 
 # Demo
-You can see a live demo of the app here: https://react-shopping-cart.netlify.app/
+You can see a live demo of the app here: https://srinathreactshoppingcart.netlify.app/
 
 # Features
 Browse products and price range
